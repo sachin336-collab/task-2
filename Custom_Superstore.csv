@@ -1,0 +1,51 @@
+Order ID,Order Date,Region,Category,Sub-Category,Product,Units Sold,Unit Price,Sales,Profit
+ORD001,2024-01-27,West,Electronics,Laptop,HP Pavilion,1,20086,20086,5537
+ORD002,2024-01-26,Central,Electronics,Tablet,iPad,3,44925,134775,22602
+ORD003,2024-02-07,North,Clothing,Kids,Kids T-shirt,15,7671,115065,26314
+ORD004,2024-03-01,West,Furniture,Chairs,Office Chair,19,10738,204022,25064
+ORD005,2024-01-23,West,Furniture,Sofa,Sectional Sofa,7,19025,133175,36198
+ORD006,2024-01-15,North,Electronics,Tablet,Lenovo Tab,14,19190,268660,77662
+ORD007,2024-03-30,West,Furniture,Table,Dining Table,18,33129,596322,96334
+ORD008,2024-03-05,East,Furniture,Sofa,Fabric Sofa,9,20466,184194,53031
+ORD009,2024-01-18,Central,Clothing,Kids,Kids Shorts,13,45915,596895,62643
+ORD010,2024-01-25,West,Clothing,Women's Wear,Top,9,20676,186084,50452
+ORD011,2024-01-28,Central,Electronics,Mobile,Redmi Note 10,18,46641,839538,223941
+ORD012,2024-03-04,South,Furniture,Chairs,Office Chair,6,37539,225234,46621
+ORD013,2024-03-15,South,Electronics,Tablet,iPad,9,13131,118179,17990
+ORD014,2024-02-26,Central,Furniture,Table,Dining Table,2,49794,99588,28072
+ORD015,2024-01-23,West,Furniture,Table,Dining Table,19,1445,27455,3787
+ORD016,2024-03-13,South,Clothing,Kids,Kids Shorts,20,3240,64800,7593
+ORD017,2024-01-07,North,Clothing,Men's Wear,T-shirt,1,12732,12732,1571
+ORD018,2024-01-24,Central,Electronics,Laptop,HP Pavilion,1,47329,47329,10563
+ORD019,2024-03-15,South,Electronics,Tablet,iPad,11,38713,425843,45837
+ORD020,2024-03-09,South,Clothing,Men's Wear,T-shirt,3,16370,49110,12559
+ORD021,2024-01-23,South,Electronics,Laptop,Dell Inspiron,9,15221,136989,34365
+ORD022,2024-01-13,Central,Clothing,Men's Wear,T-shirt,9,5660,50940,15120
+ORD023,2024-01-07,East,Electronics,Tablet,Samsung Tab,6,48333,289998,72133
+ORD024,2024-01-11,Central,Clothing,Men's Wear,Shirt,18,20264,364752,100202
+ORD025,2024-02-06,Central,Clothing,Men's Wear,Jeans,10,30168,301680,63084
+ORD026,2024-01-08,North,Electronics,Tablet,iPad,20,26976,539520,85389
+ORD027,2024-03-25,East,Electronics,Laptop,HP Pavilion,15,4227,63405,16901
+ORD028,2024-01-29,East,Furniture,Chairs,Office Chair,6,11725,70350,17929
+ORD029,2024-01-07,Central,Clothing,Kids,Kids T-shirt,17,14194,241298,58353
+ORD030,2024-02-28,North,Electronics,Tablet,iPad,14,18543,259602,30476
+ORD031,2024-03-04,East,Clothing,Women's Wear,Top,4,39753,159012,45090
+ORD032,2024-01-25,South,Clothing,Men's Wear,Shirt,4,24113,96452,13853
+ORD033,2024-02-16,North,Clothing,Kids,Kids Dress,17,3939,66963,9828
+ORD034,2024-03-24,East,Electronics,Tablet,Samsung Tab,11,44507,489577,76702
+ORD035,2024-03-08,North,Furniture,Chairs,Gaming Chair,5,6525,32625,4255
+ORD036,2024-03-22,South,Clothing,Men's Wear,Shirt,12,10441,125292,13553
+ORD037,2024-02-18,East,Clothing,Kids,Kids T-shirt,20,10348,206960,37163
+ORD038,2024-03-25,South,Electronics,Laptop,MacBook Air,18,37883,681894,118797
+ORD039,2024-01-31,West,Electronics,Laptop,MacBook Air,8,13057,104456,31051
+ORD040,2024-01-18,East,Electronics,Mobile,Redmi Note 10,9,41333,371997,48380
+ORD041,2024-01-31,North,Electronics,Laptop,Dell Inspiron,18,10331,185958,38485
+ORD042,2024-02-18,North,Clothing,Kids,Kids Shorts,11,45142,496562,118603
+ORD043,2024-01-29,North,Electronics,Mobile,iPhone 13,11,26018,286198,42867
+ORD044,2024-02-19,South,Clothing,Men's Wear,Jeans,20,5763,115260,34435
+ORD045,2024-01-17,Central,Electronics,Laptop,Dell Inspiron,6,34237,205422,27789
+ORD046,2024-01-10,West,Clothing,Men's Wear,Jeans,13,48977,636701,123850
+ORD047,2024-03-31,North,Electronics,Mobile,Galaxy A12,11,37749,415239,90837
+ORD048,2024-02-27,South,Furniture,Table,Dining Table,12,35499,425988,64682
+ORD049,2024-03-29,East,Clothing,Women's Wear,Top,20,47908,958160,240533
+ORD050,2024-02-23,South,Furniture,Table,Dining Table,10,11889,118890,21105
